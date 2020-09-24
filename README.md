@@ -5,7 +5,7 @@
 ## 整体方案：
 
 - Cascade RCNN 检测算法
-- 骨干网： resnetxt101_64d
+- 骨干网： resnetxt101_64x4d
 - DCN
 - SycBN
 - GC模块
